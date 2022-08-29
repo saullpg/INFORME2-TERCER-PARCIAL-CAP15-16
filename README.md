@@ -8,6 +8,11 @@
 
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
+- Conocer el plano de números complejos.
+- Impedancia de circuitos RC en serie.
+- Análisis de circuitos RC y RL en serie,paralelo y mixto.
+- Potencia en circuitos RC y RL.
+- Impedancia y admitancia de circuitos RL en paralelo.
 
 #### 2. MARCO TEORICO
 
@@ -223,6 +228,14 @@ a)1,5kHz  b)3kHz  c)5kHz  d)10kHz
 
 #### 5. CONCLUSIONES
 
+- Un número complejo representa una cantidad fasorial.
+- El voltaje en el resistor siempre está en fase con la corriente.
+- En un circuito RC, tanto la resistencia como la reactancia capacitiva combinadas determinan la impedancia.
+- Para cada circuito RC en serie, existe un circuito equivalente en paralelo para cualquier frecuencia dada.
+- En un circuito RC, una parte de la potencia es resistiva y otra es reactiva.
+- Cuando se aplica un voltaje sinusoidal a un circuito RL, la corriente y todas las caídas de voltaje son ondas senoidales.
+- En un circuito RL, tanto la resistencia como la reactancia inductiva combinadas determinan la impedancia.
+- En un inductor ideal, el voltaje siempre aparece 90° por delante de la corriente.
 
 
 #### 6. BIBLIOGRAFIA
