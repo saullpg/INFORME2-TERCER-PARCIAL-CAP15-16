@@ -4,7 +4,7 @@
 
 ##### 1.1. OBJETIVO GENERAL
 
-- Analizar las caracteristicas que tiene inductores y transformadores en conecciones CA y CD.
+- Analizar las caracteristicas que tiene los cicuitos RC y RL en conecciones CA.
 
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
@@ -67,6 +67,92 @@
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 
 ### EJERCICIOS CAPITULO 15
+
+2 Localice los siguientes números en el plano complejo:
+a)+6  b)-2  c)+j3  d)-j8
+
+![2a](https://user-images.githubusercontent.com/105374903/187116750-ac0ba204-715d-4649-b196-d34926853454.jpg)
+
+![2b](https://user-images.githubusercontent.com/105374903/187116755-b71f9b45-0aa5-43e8-a2da-20647ba21b3c.jpg)
+
+![2c](https://user-images.githubusercontent.com/105374903/187116772-2794dc02-4388-44d5-aab3-c578f5391d35.jpg)
+
+![2d](https://user-images.githubusercontent.com/105374903/187116798-b7bf1d32-7bf0-4d0a-b6a2-80d0d37abd38.jpg)
+
+4 Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3.
+
+![4a](https://user-images.githubusercontent.com/105374903/187116832-264e6ea4-5190-4159-961a-4e6296092a66.jpg)
+
+![4b](https://user-images.githubusercontent.com/105374903/187116840-4da85213-64c4-4545-8224-d409ce49d8b6.jpg)
+
+![4c](https://user-images.githubusercontent.com/105374903/187116853-9a461bad-c514-4ddf-8a72-af59e24321f8.jpg)
+
+6 Acontinuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número
+complejo en forma rectangular:
+(a) 3 unidades a la derecha del origen sobre el eje real, y 5 unidades hacia arriba sobre el eje j.
+(b) 2 unidades a la izquierda del origen sobre el eje real, y 1.5 unidades hacia arriba sobre el eje j.
+(c) 10 unidades a la izquierda del origen sobre el eje real, y 14 unidades hacia abajo sobre el eje -j.
+
+![6](https://user-images.githubusercontent.com/105374903/187116870-424158ba-558f-4fbf-991b-616d6868104e.jpg)
+
+8 Convierta cada uno de los siguientes números rectangulares a forma polar:
+a)40-j40  b)50-j200  c)35-j20  d)98+j45
+
+![8](https://user-images.githubusercontent.com/105374903/187116884-ccf6e2bc-6956-49f8-be15-35ceb2b8e455.jpg)
+
+
+10 Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al
+positivo.
+
+![10](https://user-images.githubusercontent.com/105374903/187116898-63ae9c7b-240e-475f-bbb7-8138654fbb13.jpg)
+
+12 Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.
+
+![12](https://user-images.githubusercontent.com/105374903/187116913-1eb74659-edc2-437e-ba6f-19c2e0a39fbc.jpg)
+
+14 Sume los siguientes conjuntos de números complejos.
+
+![14](https://user-images.githubusercontent.com/105374903/187116922-e5b0d94c-e96e-47de-b003-01e3d3f21915.jpg)
+
+16 Multiplique los siguientes números.
+
+![16](https://user-images.githubusercontent.com/105374903/187116930-3ed84767-1d47-448a-b2c6-4f7d4c4bcfa4.jpg)
+
+18 Realice las siguientes operaciones.
+
+![18a](https://user-images.githubusercontent.com/105374903/187116941-93547c0d-5f92-42d4-a583-8f64c838a795.jpg)
+
+![18b](https://user-images.githubusercontent.com/105374903/187116951-c1e7e75f-16a0-4c37-84f9-627bd4a5a6ce.jpg)
+
+![18c](https://user-images.githubusercontent.com/105374903/187116961-42f5ffc3-2817-416a-b608-64e32fa3766d.jpg)
+
+![18d](https://user-images.githubusercontent.com/105374903/187116968-99a44b98-37bd-48df-a77c-9a81d3da5140.jpg)
+
+20 ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
+
+![20](https://user-images.githubusercontent.com/105374903/187116976-9d385595-38e6-4ead-9d1b-558adaa4d747.jpg)
+
+22 Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
+
+![22](https://user-images.githubusercontent.com/105374903/187117016-e46eed11-bd8a-41a0-b0cf-eb5cd3dbf9cc.jpg)
+
+24 Repita el problema 23 con C = 0.0047 uF.
+
+![24a](https://user-images.githubusercontent.com/105374903/187117068-aa7c875c-133a-40ce-a44b-24a4b9fa8e22.jpg)
+
+![24](https://user-images.githubusercontent.com/105374903/187117056-6803d14b-e487-4fcd-a845-226877054782.jpg)
+
+26 Exprese la corriente en forma polar para cada circuito de la figura 15-84.
+
+![26](https://user-images.githubusercontent.com/105374903/187117078-9f4ba3fe-5271-4cdd-8962-75251d0267d8.jpg)
+
+28 Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.
+
+![28a](https://user-images.githubusercontent.com/105374903/187117091-1e7fd9c2-2260-4989-84d7-8dccd558adde.jpg)
+
+![28b](https://user-images.githubusercontent.com/105374903/187117101-268133ee-7975-460d-abd3-a07dec7fc55f.jpg)
+
+![28c](https://user-images.githubusercontent.com/105374903/187117107-e4664a9a-9458-4582-8298-6bc909ae9970.jpg)
 
 ### EJERCICIOS CAPITULO 16
 
