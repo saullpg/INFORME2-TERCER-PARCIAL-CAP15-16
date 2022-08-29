@@ -156,6 +156,68 @@ positivo.
 
 ### EJERCICIOS CAPITULO 16
 
+4 Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.
+
+![4](https://user-images.githubusercontent.com/105374903/187118589-0d88e10f-af29-459c-97f6-f087ea83ac3e.jpg)
+
+6 Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia
+total
+
+![6a](https://user-images.githubusercontent.com/105374903/187118596-0134f463-625a-4c5a-8a28-d56dedcdd926.jpg)
+
+![6b](https://user-images.githubusercontent.com/105374903/187118607-4812a5be-f2f4-4075-a971-2b626e70424d.jpg)
+
+8 Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.
+
+![8a](https://user-images.githubusercontent.com/105374903/187118620-59e5e7c0-a7ea-4662-bb91-0ca5cc3634b8.jpg)
+
+![8b](https://user-images.githubusercontent.com/105374903/187118634-5966fa6c-5e52-4278-9b2f-362b91ae97eb.jpg)
+
+10 Exprese la corriente en forma polar para cada circuito de la figura 16-54.
+
+![10](https://user-images.githubusercontent.com/105374903/187118642-2332e252-a7b8-4ce6-8fe4-9532c26900b1.jpg)
+
+12 Determine u para el circuito de la figura 16-58.
+
+![12](https://user-images.githubusercontent.com/105374903/187118648-1809156f-9372-4532-afaf-850848d10ce9.jpg)
+
+14 Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.
+
+![14a](https://user-images.githubusercontent.com/105374903/187118658-eca3258f-dd93-460e-a785-1353b91f8075.jpg)
+
+![14b](https://user-images.githubusercontent.com/105374903/187118663-f3b55156-c1e9-42b7-b386-bcb411b6cc44.jpg)
+
+![14c](https://user-images.githubusercontent.com/105374903/187118666-c79aaba8-95b4-4d0a-bf9d-28c4cb6a23f2.jpg)
+
+16  Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 16-60.
+
+![16](https://user-images.githubusercontent.com/105374903/187118677-173524ab-d173-4f66-be38-9becb89c6826.jpg)
+
+18 Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.
+
+![18a](https://user-images.githubusercontent.com/105374903/187118682-af2e05ee-53b9-44bc-82c6-2d0573bdb9cd.jpg)
+
+![18b](https://user-images.githubusercontent.com/105374903/187118693-155bc754-8a90-40bc-8506-b48ce1386f31.jpg)
+
+20 Repita el problema 19 para las siguientes frecuencias:
+a)1,5kHz  b)3kHz  c)5kHz  d)10kHz
+
+![20a](https://user-images.githubusercontent.com/105374903/187118700-57f30c1d-36ed-4fb0-b0a2-04f3091029ac.jpg)
+
+![20b](https://user-images.githubusercontent.com/105374903/187118707-fc408509-1289-4c07-a617-3f3cbe89d294.jpg)
+
+22 Encuentre la corriente total y cada corriente de rama en la figura 16-64.
+
+![22a](https://user-images.githubusercontent.com/105374903/187118719-fda82f14-04a6-49fa-b352-67daa2b2c2cc.jpg)
+
+![22b](https://user-images.githubusercontent.com/105374903/187118725-f426946c-3f2b-4bcd-a05f-79f2a27332d4.jpg)
+
+24 Repita el problema 23 para R = 56 ohm y L = 330 mH.
+
+![24a](https://user-images.githubusercontent.com/105374903/187118733-0a608742-367e-44ba-b614-889b6ce1ee37.jpg)
+
+![24b](https://user-images.githubusercontent.com/105374903/187118742-ecb4a047-74f3-4ad0-8e3b-c7ea96ab9755.jpg)
+
 #### 4. VIDEO
 
 
